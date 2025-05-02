@@ -12,4 +12,4 @@ Each prompt file contains instructions that can be used with AI assistants like 
 
 ## License
 
-MIT
+This is a collection of publicly available prompts from various sources. See the [LICENSE](LICENSE) file for more details on usage and attribution.
